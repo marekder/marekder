@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marek.
+- 👋 Welcome!
 - 👀 I’m interested in programming, especially in Font-end development.
 - 🌱 That is why I've already finished training on git/shell, html5, css3, sass pre-processor, rest api, python basics, JavaScript, currently learning Django and still ahead of me React.
 - 💞️ I’m looking for an opportunity to become Junior Front-end Developer.
